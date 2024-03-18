@@ -12,6 +12,7 @@
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
-***uau que legal***
+
+### modificação para exemplo de commit pelo GitHub desktop no dia 18 de março de 2024
       
 
