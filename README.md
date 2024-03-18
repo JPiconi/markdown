@@ -6,13 +6,12 @@
 
 ~~markdown~~
 
-**_dia 18 tal como bom amigo_**
+**_dia 18_**
 
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 ***uau que legal***
-*tal como bom*
       
 
