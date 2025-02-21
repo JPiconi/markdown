@@ -2,6 +2,8 @@
 
 #### email: juliaap.piconi@gmail.com
 
+#### hiii
+
 ## Curso: CT Desenvolvimento de Sistemas - Turma I1HM - Sesi Nova Odessa
 
 ~~markdown~~
@@ -12,7 +14,4 @@
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
-
 ### modificação para exemplo de commit pelo GitHub desktop no dia 18 de março de 2024
-      
-
